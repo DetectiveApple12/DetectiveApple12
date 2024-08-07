@@ -10,6 +10,7 @@ I am currently on my third year of [Maghsimim](https://www.instagram.com/magshim
 ## Projects
 - [PetsInsta - Social Media For Animals](https://github.com/DetectiveApple12/PetsInsta)
 - [Law - The Rule-Based Interpreted Language](https://github.com/DetectiveApple12/Law)
+- [EcoDraw - The Environment based drawing app](https://github.com/DetectiveApple12/EcoDraw)
 
 ## Links
 - [GitLab - @DetectiveApple12](https://gitlab.com/YairShafran)
