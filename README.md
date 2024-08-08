@@ -1,5 +1,5 @@
 # Hello there! I am @DetectiveApple12 🍎🍏
-Pronouns: he/him
+Pronouns: he/him, I enjoy eating apples 🍎🍏
 > ### **Wisdom begins in wonder.** 
 > \- Socrates
 
