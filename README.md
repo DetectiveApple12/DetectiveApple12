@@ -11,6 +11,7 @@ I am currently on my third year of [Maghsimim](https://www.instagram.com/magshim
 - [PetsInsta - Social Media For Animals](https://github.com/DetectiveApple12/PetsInsta)
 - [Law - The Rule-Based Interpreted Language](https://github.com/DetectiveApple12/Law)
 - [EcoDraw - The Environment Based Drawing App](https://github.com/DetectiveApple12/EcoDraw)
+- [RaylibUI - The UI Library For Raylib](https://github.com/DetectiveApple12/RaylibUI)
 
 ## Links
 - [GitLab - @DetectiveApple12](https://gitlab.com/YairShafran)
