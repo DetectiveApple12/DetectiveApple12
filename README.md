@@ -5,8 +5,6 @@ Pronouns: he/him, I enjoy eating apples 🍎🍏
 
 👀 I'm interested in programming of all types from Low Level to Web Security to Networking to Data Analysis to Software Developing and many, many more subjects.
 
-I am currently on my third year of [Maghsimim](https://www.instagram.com/magshimim_cyber/?hl=en) building an Operating System called WinDoS which centers around making sending packets and communicating online accessible and educational.
-
 ## Projects
 - [PetsInsta - Social Media For Animals](https://github.com/DetectiveApple12/PetsInsta)
 - [Law - The Rule-Based Interpreted Language](https://github.com/DetectiveApple12/Law)
