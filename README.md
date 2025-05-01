@@ -12,7 +12,6 @@ Pronouns: he/him, I enjoy eating apples 🍎🍏
 - [RaylibUI - The UI Library For Raylib](https://github.com/DetectiveApple12/RaylibUI)
 
 ## Links
-- [GitLab - @DetectiveApple12](https://gitlab.com/YairShafran)
 - [Scratch - @DetectiveApple12](https://scratch.mit.edu/users/DetectiveApple12/)
 - [Uiverse - @DetectiveApple12](https://uiverse.io/profile/DetectiveApple12)
 - [CodePen - @DetectiveApple12-the-solid](https://codepen.io/DetectiveApple12-the-solid)
